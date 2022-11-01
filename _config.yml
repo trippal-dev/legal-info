@@ -1,3 +1,7 @@
+title: TripPals
 description: Legal information for the TripPals and TripPals - Companion Apps. 
 markdown: kramdown
 theme: jekyll-theme-slate
+
+navbar-links:
+  Webpage: www.trippals.in
