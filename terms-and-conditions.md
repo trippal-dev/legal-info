@@ -29,3 +29,5 @@ These terms and conditions are effective as of 2022-10-29
 ### Contact Us
 
 If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at [dev.trippalsofficial@gmail.com](mailto:dev.trippalsofficial@gmail.com "Mail us here").
+
+Or you can visit our webpage [www.trippals.in](https://trippals.in/).
